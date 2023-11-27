@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sakila
 - 👀 I’m interested in Automation Testing
 - 🌱 I’m currently learning Automation
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Learning and Knowledge Sharing: 
+- 📫 How to reach me @ sakieie89@gmail.com
 
 <!---
 sakilakannan/sakilakannan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
