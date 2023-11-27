@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sakilakannan
+- 👋 Hi, I’m @sakila
 - 👀 I’m interested in Automation Testing
 - 🌱 I’m currently learning Automation
 - 💞️ I’m looking to collaborate on ...
